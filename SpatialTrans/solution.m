@@ -1,4 +1,4 @@
-v = VideoReader('../data/sample_video.mp4');
+v = VideoReader('sample_video.mp4');
 w = v.Width;
 h = v.Height;
 time = v.Duration;
