@@ -1,0 +1,3 @@
+To view results for Tensor_RPCA on the first 40 frames of the sample video
+using lambda = 0.215 / sqrt(min(n1,n2)) with convergence parameter epsilon
+set to 1.25, run tensor_rpca_test.m.  
